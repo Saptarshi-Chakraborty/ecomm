@@ -239,7 +239,7 @@ img {
 }
 
 .wrapper {
-  background-color: #007fff;
+  background-color: #0c0b0b;
   color: #fff;
   text-align: center;
 }
@@ -373,7 +373,7 @@ input[type="text"] {
   gap: 50px;
 }
 
-.products .grid>* {
+.products .grid > * {
   justify-self: center;
 }
 
@@ -439,7 +439,7 @@ img {
   width: 40px;
   height: 40px;
   padding: 5px;
-  background: #007fff;
+  background: #000000;
   color: #fff;
   border: none;
   font-size: 2rem;
