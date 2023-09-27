@@ -274,13 +274,17 @@ img {
 .search {
   width: 100%;
   display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.2rem;
 }
 
 .search-btn {
   border: solid 2px #fff;
-  padding: 0 10px;
-  border-radius: 15px;
+  padding: 0px 10px;
+  border-radius: 20px;
   cursor: pointer;
+  height: 2.3rem;
 }
 
 .form-control {
